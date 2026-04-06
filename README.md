@@ -12,10 +12,10 @@
 | Game | Genre | Status |
 |------|-------|--------|
 | 🗼 Tap Stack Tower | Single Tap / Casual | 🟡 Coming Soon |
-| 🎨 Color Road Runner | Endless Runner | 🔵 In Development |
-| 👑 Idle Coin Empire | Idle / Clicker | 🔵 In Development |
-| ⚫ Helix Spiral Drop | Physics Drop | 🔵 In Development |
-| 🔢 Number Merge 2048+ | Puzzle / Merge | 🔵 In Development |
+| 🎨 Color Road Runner | Endless Runner | 🟡 Coming Soon |
+| 👑  | Idle / Clicker | 🔵 In Development |
+| ⚫  | Physics Drop | 🔵 In Development |
+| 🔢  | Puzzle / Merge | 🔵 In Development |
 
 ---
 
