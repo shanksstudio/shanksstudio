@@ -13,8 +13,8 @@
 |------|-------|--------|
 | ⚔️ Spin Fury: Blade Survivor | Action Survivor / Roguelite | 🔴 Closed Testing |
 | 🧩 Nanogram Puzzle | Logic / Nonogram | 🔴 Closed Testing |
-| 🗼 Tap Stack Tower | Single Tap / Casual | 🔴 Closed Testing |
-| 🎨 Color Road Runner | Endless Runner | 🔴 Closed Testing |
+| 🗼 Tap Stack Tower | Single Tap / Casual | 🟢 LIVE ON PLAYSTORE: https://play.google.com/store/apps/details?id=com.shanksstudio.tapstacktower |
+| 🎨 Color Road Runner | Endless Runner | 🟢 LIVE ON PLAYSTORE: https://play.google.com/store/apps/details?id=com.shanksstudio.colorroadrunner&pli=1 |
 
 ---
 
